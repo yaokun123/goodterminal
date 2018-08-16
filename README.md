@@ -9,7 +9,7 @@ goodterminal
 cd /etc/
 
 
-sudo git clone https://github.com/suxianbaozi/goodterminal.git
+sudo git clone git@github.com:yaokun123/goodterminal.git
 
 sudo vi /etc/bashrc 
 加入内容 
